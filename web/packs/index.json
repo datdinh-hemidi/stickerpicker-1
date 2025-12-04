@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes-1-32.json",
+    "emotes-extra.json"
   ],
   "homeserver_url": "https://gitter.ems.host"
 }
